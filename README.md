@@ -1,4 +1,6 @@
-# pxt-mm-sensor
+# PTX (Makecode) Blocks for the MonkMakes Sensor for micro:bit board.
+
+
 
 
 
