@@ -1,6 +1,21 @@
 # PTX (Makecode) Blocks for the MonkMakes Sensor for micro:bit board.
 
 
+Installation
+https://github.com/monkmakes/pxt-mm-sensor.git
+
+
+
+Clap
+https://makecode.microbit.org/_WpsR1T5XpfE2
+
+
+Thermometer
+https://makecode.microbit.org/_c5qhvjTaR1u1
+
+
+Light Meter
+https://makecode.microbit.org/_YUfPH3E7qbVc
 
 
 
