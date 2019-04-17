@@ -13,7 +13,7 @@ into the search field at the top of the screen.
 
 Once the extension is added, you will find a new blocks category called _Sensor_
 
-![Sensor blocks category](figs/blocks.tiff)
+![Sensor blocks category](figs/blocks.png)
 
 Clap
 https://makecode.microbit.org/_WpsR1T5XpfE2
