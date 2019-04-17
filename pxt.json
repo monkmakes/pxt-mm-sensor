@@ -1,18 +1,16 @@
 {
     "name": "pxt-mm-sensor",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "An extension for the MonkMakes Sensor for micro:bit",
     "dependencies": {
         "core": "*",
-        "radio": "*"
     },
     "files": [
         "README.md",
-        "main.ts",
-        "custom.ts"
+        "mm_sensor.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": true
 }
